@@ -3,5 +3,5 @@ window.oakridgeConfig = {
   ownerPortal: "",
   tenantPortal: "",
   listings: "",
-  inquiryEmail: "",
+  inquiryEmail: "hello@oakridgepm.com",
 };
