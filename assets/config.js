@@ -1,6 +1,6 @@
 // Enter the verified HTTPS URLs and inquiry email before launch.
 window.oakridgeConfig = {
-  ownerPortal: "",
+  ownerPortal: "https://oakridgepm.app.doorloop.com/auth/login",
   tenantPortal: "",
   listings: "",
   inquiryEmail: "hello@oakridgepm.com",
