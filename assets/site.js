@@ -64,4 +64,5 @@ if (form) {
       status.textContent = "The draft is selected. Use your device’s copy command.";
     }
   });
+  form.querySelector('button[type="submit"]').disabled = false;
 }
